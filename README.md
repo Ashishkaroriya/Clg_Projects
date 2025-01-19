@@ -1,6 +1,6 @@
-# Codsoft Projects
+# Java Projects
 
-Welcome to the Codsoft repository! This repository contains various projects developed using Java. Each project is designed to demonstrate different aspects of Java programming and software development.
+Welcome to the repository! This repository contains various projects developed using Java. Each project is designed to demonstrate different aspects of Java programming and software development.
 
 ## Projects
 
