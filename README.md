@@ -49,5 +49,3 @@ Welcome to the repository! This repository contains various projects developed u
 To get started with any of the projects, clone the repository and navigate to the project directory.
 
 ```bash
-git clone https://github.com/Ashishkaroriya/codsoft.git
-cd codsoft
